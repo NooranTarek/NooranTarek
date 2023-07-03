@@ -8,9 +8,10 @@
 </div>
 
 
-- 🔭 I’m currently working on developing my knowledge about Node js and do some projects
+- 🔭 I’m currently working on developing my Node js knowledge and some projects
 - 🌱 I’m currently learning Node js 
 - 🤔 I’m looking for help with having useful internships to make best use of all that i have learned
+- 🥅 i will learn React Js soon as possible
 
 Languages:
 
