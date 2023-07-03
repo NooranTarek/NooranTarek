@@ -1,16 +1,30 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/emGDBYPZ2mVrsS1biZ/giphy.gif" width="200"/>
+  <br>
+  <p>Hi there 👋 i am Nooran Tarek , Back-End Developer (Node Js)
+  <hr>
+    
+</p>
+</div>
 
-<!--
-**NooranTarek/NooranTarek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on developing my knowledge about Node js and do some projects
+- 🌱 I’m currently learning Node js 
+- 🤔 I’m looking for help with having useful internships to make best use of all that i have learned
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Languages:
+
+- Arabic
+
+- English B2
+
+Skills:
+-	Node JS
+-	Express JS
+-	SQL
+-	Postman API’S
+-	Html
+-	CSS
+- JavaScript
+-	Clean Code
+-	Mongo DB
