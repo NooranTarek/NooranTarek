@@ -22,6 +22,7 @@
 <br>
 <!-- Most Used Languages -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NooranTarek&layout=compact)
+<br>
 
 <!-- GitHub Stats -->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NooranTarek&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
