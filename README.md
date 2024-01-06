@@ -28,13 +28,3 @@ Languages:
 
 - English B2
 
-Skills:
--	Node JS
--	Express JS
--	SQL
--	Postman API’S
--	Html
--	CSS
-- JavaScript
--	Clean Code
--	Mongo DB
