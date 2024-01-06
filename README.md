@@ -6,7 +6,6 @@
     
 </p>
 </div>
-<div style="background-color: #f0f0f0; padding: 20px; border-radius: 8px;">
 - 🔭 I’m currently studying in ITI as Open Source student 
 
 ## 🔧 Technologies & Tools
@@ -40,6 +39,4 @@ Languages:
 ![VisitorCount](https://profile-counter.glitch.me/NooranTarek/count.svg)
 
 
-
-</div>
 
