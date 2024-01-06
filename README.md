@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/emGDBYPZ2mVrsS1biZ/giphy.gif" width="200"/>
   <br>
-  <p>Hi there 👋 i am Nooran Tarek , Back-End Developer (Node Js)
+  <p>Hi there 👋 i am Nooran Tarek ,Software Engineer
   <hr>
     
 </p>
