@@ -13,6 +13,16 @@
 - 🤔 I’m looking for help with having useful internships to make best use of all that i have learned
 - 🥅 i will learn React Js soon as possible
 
+## 🔧 Technologies & Tools
+
+![Tech1](https://img.shields.io/badge/-Tech1-333333?style=flat&logo=tech1)
+![Tech2](https://img.shields.io/badge/-Tech2-333333?style=flat&logo=tech2)
+![Tech3](https://img.shields.io/badge/-Tech3-333333?style=flat&logo=tech3)
+
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/nooran-tarek-90584024a)
+
 Languages:
 
 - Arabic
