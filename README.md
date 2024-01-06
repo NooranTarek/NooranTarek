@@ -20,10 +20,12 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/nooran-tarek-90584024a)
 
 <br>
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NooranTarek&layout=compact&theme=radical" alt="My Github Stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=NooranTarek&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="My Github Stats">
-</p>
+<!-- Most Used Languages -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NooranTarek&layout=compact)
+
+<!-- GitHub Stats -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NooranTarek&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+
 
 Languages:
 
