@@ -6,6 +6,14 @@
     
 </p>
 </div>
+
+<p align="center">
+ <a href="https://www.linkedin.com/in/nooran-tarek-90584024a/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
+ </a>
+</p>
+<br />
+
 - 🔭 I’m currently studying in ITI as Open Source student 
 
 ## 🔧 Technologies & Tools
