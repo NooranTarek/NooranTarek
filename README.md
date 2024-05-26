@@ -15,8 +15,8 @@
 </p>
 </div>
 
-
-- 🔭 I’m currently studying in ITI as Open Source student 
+### 🔭 I’m currently studying in ITI as Open Source Application student 
+  <hr>
 
 ## 🔧 Technologies & Tools
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -49,13 +49,6 @@
 ![Mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-
-
-
-<br>
-## 🌐 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/nooran-tarek-90584024a)
 
 <br>
 <p align="center">
