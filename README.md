@@ -1,14 +1,14 @@
 <div id="header" align="center">
 <!--   <img src="https://media.giphy.com/media/emGDBYPZ2mVrsS1biZ/giphy.gif" width="200"/>
  -->
-  ### Hi there 👋 i am Nooran Tarek ,Software Engineer
+ 
+ # Nouran Tarek Mohamed
+  ### Software Engineer
 <p align="center">
  <a href="https://www.linkedin.com/in/nooran-tarek-90584024a/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
  </a>
 </p>
-<br />
-  <br>
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmxieWlid3B3ejhhb2JqaDR6MDl5a2FnZGJ5c2NlNWp0Mnh1anhsaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4rZA5D22301iMgrUNd/giphy.gif"/>
   <hr>
     
