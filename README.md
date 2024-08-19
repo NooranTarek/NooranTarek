@@ -55,8 +55,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NooranTarek&layout=compact&theme=radical&hide=" alt="My Github Stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=NooranTarek&&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="My Github Stats">
 </p>
-/*
-![Nouran's Graph](https://github-readme-activity-graph.vercel.app/graph?username=NooranTarek&custom_title=NooranTarek%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)*/
+
 
 
 
