@@ -57,7 +57,7 @@
 </p>
 
 
-
+![Nouran's Graph](https://github-readme-activity-graph.vercel.app/graph?username=NooranTarek&custom_title=NooranTarek%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 #### Thanks for visiting :heart:
 ![VisitorCount](https://profile-counter.glitch.me/NooranTarek/count.svg)
