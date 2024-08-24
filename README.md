@@ -15,7 +15,7 @@
 </p>
 </div>
 
-### 🔭 Graduated From ITI ( Open Source Applications Track)
+### 🔭 Graduated From ITI 9-Month Diploma ( Open Source Applications Track)
   <hr>
 
 ## 🔧 Technologies & Tools
