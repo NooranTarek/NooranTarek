@@ -15,7 +15,7 @@
 </p>
 </div>
 
-### 🔭 I’m currently studying in ITI as Open Source Application student 
+### 🔭 Graduated From ITI ( Open Source Applications Track)
   <hr>
 
 ## 🔧 Technologies & Tools
